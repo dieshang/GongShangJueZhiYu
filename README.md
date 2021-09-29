@@ -26,4 +26,4 @@
 |||d6-项目展示ppt
 
 
-![burndown](http://172.16.42.201:3000/W4-B/GameDemo/raw/8ff67bc7643da576f7b3b83af7507e31e5044f12/doc/Burndown.jpg)
+![burndown](https://github.com/dieshang/GongShangJueZhiYu/blob/master/doc/Burndown.jpg)

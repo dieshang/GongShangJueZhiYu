@@ -4,7 +4,7 @@
 
 | 未完成（1） | 正在进行（0） |  已完成（20）|
 | -------- | -------- | -------- |
-|  <s>[s2-加载界面](https://github.com/dieshang/GongShangJueZhiYu/blob/master/doc/%E8%BD%AF%E4%BB%B6%E5%8A%9F%E8%83%BD%E6%8F%8F%E8%BF%B0%E8%A1%A8-md/s2%E5%8A%A0%E8%BD%BD%E7%95%8C%E9%9D%A2.md)</s>   |   |   [d1-组员信息表](http://172.16.42.201/W4-B/GameDemo/src/master/doc/B%E7%BB%84-%E5%B0%8F%E7%BB%84%E4%BF%A1%E6%81%AF%E8%A1%A8.md)  |
+|  <s>[s2-加载界面](https://github.com/dieshang/GongShangJueZhiYu/blob/master/doc/%E8%BD%AF%E4%BB%B6%E5%8A%9F%E8%83%BD%E6%8F%8F%E8%BF%B0%E8%A1%A8-md/s2%E5%8A%A0%E8%BD%BD%E7%95%8C%E9%9D%A2.md)</s>   |   |   [d1-组员信息表](https://github.com/dieshang/GongShangJueZhiYu/blob/master/doc/B%E7%BB%84-%E5%B0%8F%E7%BB%84%E4%BF%A1%E6%81%AF%E8%A1%A8.md)  |
 |     |  | d2-游戏策划案 |
 |      |  |   d3-交付结果清单    |
 |         |   | [d4-功能描述表](https://github.com/dieshang/GongShangJueZhiYu/blob/master/doc/%E8%BD%AF%E4%BB%B6%E5%8A%9F%E8%83%BD%E6%8F%8F%E8%BF%B0%E8%A1%A8.md)   |   
